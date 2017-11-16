@@ -8,7 +8,7 @@ This tutorial teaches you GitHub essentials like repositories, branches, commits
 
 ## GUI - Web Based
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+[Click here](gui.md) to view the instructions to use the GitHub Web GUI
 
 ### Step 1 - Create a Repository
 
@@ -50,12 +50,6 @@ See below the list of sources.
 ## License and Sources
 
 This page is a collection of tutorials from various sources:
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-## Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
