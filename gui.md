@@ -16,6 +16,8 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 3. Write a short description.
 4. Select **Initialize this repository with a README**.
 
+![alt text][initialise]
+
 ## Step 2 - Create a Branch
 
 Branching is the way to work on different versions of a repository at one time.
@@ -34,3 +36,4 @@ This diagram shows:
 
 
 [branches]: https://guides.github.com/activities/hello-world/branching.png "Master Branch"
+[initialise]: https://guides.github.com/activities/hello-world/create-new-repo.png "Initialise Repository"
