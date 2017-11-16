@@ -89,6 +89,12 @@ You can even open pull requests in your own repository and merge them yourself. 
 ### Open a Pull Request for changes to the README
 
 
+| Step          | Screenshot           |
+| ------------- |:-------------:|
+| Click the Pull Request tab, then from the Pull Request page, click the green New pull request button.     | ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "") |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 
 [branches]: https://guides.github.com/activities/hello-world/branching.png "Master Branch"
 [initialise]: https://guides.github.com/activities/hello-world/create-new-repo.png "Initialise Repository"
