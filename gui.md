@@ -29,3 +29,7 @@ This diagram shows:
 * The journey that `feature` takes before it’s merged into `master`
 
 ![alt text][branches]
+
+
+
+[branches]: https://guides.github.com/activities/hello-world/branching.png "Master Branch"
