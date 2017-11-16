@@ -36,7 +36,7 @@ This diagram shows:
 * A new branch called `feature` (because we’re doing ‘feature work’ on this branch)
 * The journey that `feature` takes before it’s merged into `master`
 
-![alt text][logo]
+![alt text][branches]
 
 ## Versioning
 V1.0 Release - 16th November 2017
