@@ -18,6 +18,8 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ![alt text][initialise]
 
+Click Create repository.
+
 ## Step 2 - Create a Branch
 
 Branching is the way to work on different versions of a repository at one time.
@@ -33,6 +35,24 @@ This diagram shows:
 
 ![alt text][branches]
 
+Have you ever saved different versions of a file? Something like:
+```
+    story.txt
+    story-joe-edit.txt
+    story-joe-edit-reviewed.txt
+```
+Branches accomplish similar goals in GitHub repositories.
+
+Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+
+##To create a new branch
+
+1. Go to your new repository `hello-world`.
+2. Click the drop down at the top of the file list that says **branch: master**.
+3. Type a branch name, `readme-edits`, into the new branch text box.
+4. Select the blue **Create branch** box or hit “Enter” on your keyboard.
+
+![alt text](https://guides.github.com/activities/hello-world/readme-edits.gif "")
 
 
 [branches]: https://guides.github.com/activities/hello-world/branching.png "Master Branch"
