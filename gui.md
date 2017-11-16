@@ -91,9 +91,24 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 | Step          | Screenshot           |
 | ------------- |:-------------:|
-| Click the Pull Request tab, then from the Pull Request page, click the green New pull request button.     | ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "") |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Click the **Pull Request** tab, then from the Pull Request page, click the green **New pull request** button.     | ![alt text](https://guides.github.com/activities/hello-world/pr-tab.gif "") |
+| In the Example Comparisons box, select the branch you made, `readme-edits`, to compare with `master` (the original).      | ![alt text](https://guides.github.com/activities/hello-world/pick-branch.png "")      |
+| Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![alt text](https://guides.github.com/activities/hello-world/diff.png "")      |
+| When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | ![alt text](https://guides.github.com/activities/hello-world/create-pr.png "")      |
+| Give your pull request a title and write a brief description of your changes. | ![alt text](https://guides.github.com/activities/hello-world/pr-form.png "")      |
+
+When you’re done with your message, click **Create pull request**!
+
+## Step 5 - Merge your Pull Request
+
+In this final step, it’s time to bring your changes together – merging your `readme-edits` branch into the `master` branch.
+
+
+1. Click the green **Merge pull request** button to merge the changes into `master`.
+2. Click **Confirm merge**.
+3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
+
+![alt text](https://guides.github.com/activities/hello-world/merge-button.png "")
 
 
 [branches]: https://guides.github.com/activities/hello-world/branching.png "Master Branch"
